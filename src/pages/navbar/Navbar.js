@@ -3,6 +3,7 @@ import "./Navbar.css"
 
 export function Navbar(){
     return(
-        <Router></Router>
+        // <Router></Router>
+        <div></div>
     )
 }

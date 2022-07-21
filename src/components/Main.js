@@ -4,8 +4,10 @@ import { Navbar } from "../pages/navbar/Navbar";
 
 export function Main (){
     return(
-        <div>
+        <div className="main">
             <Navbar/>
+            saad
+            
         </div>
     )
 }
